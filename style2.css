@@ -1,0 +1,15 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+    border: 5px;
+    border-color: aliceblue;
+}
+.total .imagem{
+    justify-content: end;
+    white-space: 10px;
+
+}
